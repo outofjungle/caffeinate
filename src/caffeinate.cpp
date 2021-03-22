@@ -6,6 +6,7 @@
 
 */
 
+#include <Arduino.h>
 #include <BleMouse.h>
 
 const int SWITCH_PIN = 22;
